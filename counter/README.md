@@ -1,4 +1,4 @@
-# CPI-TRANSFER
+# COUNTER
 
 In this homework, you will modify the transfer amount in out existing logic. Currently it is transferring all the balance source account holds. Instead let's change this to a defined amount.
 
@@ -24,7 +24,7 @@ git clone <link>
 
 Get in the folder
 ```bash
-cd Solana-Bootcamp-Final-Project/cpitransfer
+cd Solana-Bootcamp-Final-Project/counter
 ```
 
 Build or test
